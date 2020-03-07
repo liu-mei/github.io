@@ -1,3 +1,3 @@
-# Home page of professor Liu Mei. 
+# Liu Mei's Homepage. 
 
 
