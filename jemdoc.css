@@ -206,7 +206,7 @@ p + ul, p + ol {
 }
 
 li ul, li ol {
-	margin-top: -0.2em;
+	margin-top: -0.5em;
 }
 
 ol {
@@ -215,7 +215,7 @@ ol {
 }
 
 li p, dd p {
-	margin-bottom: 0.3em;
+	margin-bottom: 0.4em;
 }
 
 
