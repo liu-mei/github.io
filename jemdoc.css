@@ -32,7 +32,7 @@ body {
 }
 
 #layout-content {
-	padding-top: 0.0em;
+	padding-top: 1.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
@@ -80,7 +80,7 @@ div.menu-category {
 	border-bottom: 1px solid gray;
 	margin-top: 0.8em;
 	padding-top: 0.2em;
-	padding-bottom: 0.1em;
+	padding-bottom: 0.3em;
 	font-weight: bold;
 }
 
@@ -91,7 +91,7 @@ div.menu-item {
 
 div#toptitle {
 	padding-bottom: 0.2em;
-	margin-bottom: 1.5em;
+	margin-bottom: 1.8em;
 	border-bottom: 3px double gray;
 }
 
@@ -174,9 +174,9 @@ div#footer-text {
 }
 
 ul, ol, dl {
-	margin-top: 0.2em;
+	margin-top: 0.3em;
 	padding-top: 0;
-	margin-bottom: 0.8em;
+	margin-bottom: 1em;
 }
 
 dt {
@@ -206,7 +206,7 @@ p + ul, p + ol {
 }
 
 li ul, li ol {
-	margin-top: -0.3em;
+	margin-top: -0.2em;
 }
 
 ol {
